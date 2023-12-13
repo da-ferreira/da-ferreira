@@ -16,7 +16,7 @@
   
 > 🏆 Top 250 no rank mundial beecrowd (antigo URI ONLINE JUDGE), com mais de 770 problemas resolvidos em diversos temas 🏆
 <div align="center">
-  <img align="center" alt="top1" src="https://github.com/da-ferreira/da-ferreira/assets/72570193/3992d2c4-c210-4480-bb6e-0e5c239ccf82" width="700">
+  <img align="center" alt="top1" src="https://github.com/da-ferreira/da-ferreira/assets/72570193/752a552e-2460-4b82-8e3d-77ce516679bf" width="700">
 
   Perfil: https://www.beecrowd.com.br/judge/pt/profile/452518
 </div>
