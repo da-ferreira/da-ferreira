@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img alt="David Ferreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-ferreira&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180" />
+  <img alt="David Ferreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-ferreira&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC&hide=jupyter%20notebook" height="180" />
   <img alt="David Ferreira's Fire" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=da-ferreira&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="160" />
   <br/>
 </div>
